@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/netflix_portfolio/static/css/main.37c92f20.css",
-    "main.js": "/netflix_portfolio/static/js/main.648d90d7.js",
+    "main.css": "/netflix_portfolio/static/css/main.b6409433.css",
+    "main.js": "/netflix_portfolio/static/js/main.a14bc735.js",
     "static/js/453.b0cd7502.chunk.js": "/netflix_portfolio/static/js/453.b0cd7502.chunk.js",
     "static/media/jcole.jpg": "/netflix_portfolio/static/media/jcole.6e782c2b7df112fb4d30.jpg",
     "static/media/radarcopy.jpg": "/netflix_portfolio/static/media/radarcopy.4943597f8c161ae19eeb.jpg",
@@ -20,12 +20,12 @@
     "static/media/rich_dad_poor_dad.jpg": "/netflix_portfolio/static/media/rich_dad_poor_dad.3e652088b5ec2c6f8709.jpg",
     "static/media/facedetection.jpg": "/netflix_portfolio/static/media/facedetection.6c30f0867bb67d994478.jpg",
     "index.html": "/netflix_portfolio/index.html",
-    "main.37c92f20.css.map": "/netflix_portfolio/static/css/main.37c92f20.css.map",
-    "main.648d90d7.js.map": "/netflix_portfolio/static/js/main.648d90d7.js.map",
+    "main.b6409433.css.map": "/netflix_portfolio/static/css/main.b6409433.css.map",
+    "main.a14bc735.js.map": "/netflix_portfolio/static/js/main.a14bc735.js.map",
     "453.b0cd7502.chunk.js.map": "/netflix_portfolio/static/js/453.b0cd7502.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37c92f20.css",
-    "static/js/main.648d90d7.js"
+    "static/css/main.b6409433.css",
+    "static/js/main.a14bc735.js"
   ]
 }
