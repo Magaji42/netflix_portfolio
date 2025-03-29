@@ -1,29 +1,31 @@
 {
   "files": {
     "main.css": "/netflix_portfolio/static/css/main.37c92f20.css",
-    "main.js": "/netflix_portfolio/static/js/main.85a06093.js",
+    "main.js": "/netflix_portfolio/static/js/main.648d90d7.js",
     "static/js/453.b0cd7502.chunk.js": "/netflix_portfolio/static/js/453.b0cd7502.chunk.js",
     "static/media/jcole.jpg": "/netflix_portfolio/static/media/jcole.6e782c2b7df112fb4d30.jpg",
+    "static/media/radarcopy.jpg": "/netflix_portfolio/static/media/radarcopy.4943597f8c161ae19eeb.jpg",
     "static/media/albumCover1.jpg": "/netflix_portfolio/static/media/albumCover1.06756b2647f69af20de0.jpg",
     "static/media/ Weeknd.jpg": "/netflix_portfolio/static/media/ Weeknd.7824c20bdacc508d0398.jpg",
     "static/media/eat_that_frog.jpg": "/netflix_portfolio/static/media/eat_that_frog.813c8f47ac052b6d620c.jpg",
     "static/media/grey.png": "/netflix_portfolio/static/media/grey.bbfd7fb8e095529e355c.png",
     "static/media/blue.png": "/netflix_portfolio/static/media/blue.9b293a4a6ef065903a8f.png",
     "static/media/netflix-sound.mp3": "/netflix_portfolio/static/media/netflix-sound.a13a4aedfb5da5a27f04.mp3",
+    "static/media/objectdetection.jpg": "/netflix_portfolio/static/media/objectdetection.a09c322a6d31a658fb1e.jpg",
     "static/media/red.png": "/netflix_portfolio/static/media/red.6138d0c52611186c9d03.png",
     "static/media/chris.jpg": "/netflix_portfolio/static/media/chris.c8b8e648ee695596bdd3.jpg",
-    "static/media/logo-2.png": "/netflix_portfolio/static/media/logo-2.58ad3f8c81c7cac97b9b.png",
+    "static/media/logo-2.png": "/netflix_portfolio/static/media/logo-2.341acfb2e823fa03d357.png",
     "static/media/alchemist.jpg": "/netflix_portfolio/static/media/alchemist.9c7b8d90f87afb9eb1f9.jpg",
     "static/media/atomic_habits.jpg": "/netflix_portfolio/static/media/atomic_habits.1e9739efe6a8eca8240a.jpg",
     "static/media/rich_dad_poor_dad.jpg": "/netflix_portfolio/static/media/rich_dad_poor_dad.3e652088b5ec2c6f8709.jpg",
-    "static/media/sumanth.jpeg": "/netflix_portfolio/static/media/sumanth.1fe5fb0dc7e7e728d4e1.jpeg",
+    "static/media/facedetection.jpg": "/netflix_portfolio/static/media/facedetection.6c30f0867bb67d994478.jpg",
     "index.html": "/netflix_portfolio/index.html",
     "main.37c92f20.css.map": "/netflix_portfolio/static/css/main.37c92f20.css.map",
-    "main.85a06093.js.map": "/netflix_portfolio/static/js/main.85a06093.js.map",
+    "main.648d90d7.js.map": "/netflix_portfolio/static/js/main.648d90d7.js.map",
     "453.b0cd7502.chunk.js.map": "/netflix_portfolio/static/js/453.b0cd7502.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37c92f20.css",
-    "static/js/main.85a06093.js"
+    "static/js/main.648d90d7.js"
   ]
 }
